@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm @alpinevm</h1>
-<h3 align="center">backend software engineer working in crypto</h3>
+<h1 align="center">Hi 👋, I'm Alpine</h1>
+<h3 align="center">backend engineer working in crypto</h3>
 
 - 🔭 I’m currently working on [Atlas](https://atlaszk.com)
 
-- 🌱 I’m currently learning **Rust, ZK**
+- 🌱 I’m currently learning **Rust & Zero Knowledge Cryptography**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alpinevm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alpinevm" height="30" width="40" /></a>
-<a href="https://discord.gg/alpine#1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alpine#1111" height="30" width="40" /></a>
+<a href="https://discord.gg/hYpyp5nCCn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alpine#1111" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
